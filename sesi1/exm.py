@@ -23,6 +23,3 @@ print(f'''
       ''') #coba jalanin dluu
 
 #oke next!!
-
-pacar = "afrad"
-pacar2 = pacar
